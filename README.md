@@ -30,3 +30,6 @@ Ex.:<br/>
   "descricao" : "Nome do Artista/Banda"
 }
 </pre>
+
+# Considerações
+Para uma melhor performance foi utilizado o servidor de aplicação Apache Toncat já encapsulado no fonte integrado do Spring Boot.
