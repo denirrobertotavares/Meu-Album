@@ -17,15 +17,15 @@ d- http://localhost:8081/artista/updateArtista -> fará o update de dados na bas
 Ex.:<br/>
 <pre>
 {
-"codArtista" : 1
-"descricao" : "Novo Nome do Artista/Banda"
+  "codArtista" : 1
+  "descricao" : "Novo Nome do Artista/Banda"
 }
 </pre>
 e- http://localhost:8081/artista/deleteArtista -> fará o delete do modelo de dados selecionado na base.<br/>
 Ex.:<br/>
 <pre>
 {
-"codArtista" : 1
-"descricao" : "Nome do Artista/Banda"
+  "codArtista" : 1
+  "descricao" : "Nome do Artista/Banda"
 }
 </pre>
