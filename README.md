@@ -2,7 +2,8 @@
 Projeto SPRING BOOT Básico<br/><br/>
 Para instalação do pacote siga corretamente as instruções.<br/><br/>
 1- Abra o arquivo ScriptSQL e siga os passos para criação do banco.<br/><br/>
-2- O código fonte foi desenvolvido, compilado e testado por meio da ferramenta STS da Spring. Por se tratar de um fonte maven pode ser importado pelo Eclipse e Netbeans nas suas versões mais atuais. Os testes de massa foram executados no sistema SoapUI 5.5.0 sem quais problemas.<br/><br/>
+2- O código fonte foi desenvolvido, compilado e testado por meio da ferramenta STS da Spring. Por se tratar de um fonte maven pode ser importado pelo Eclipse e Netbeans nas suas versões mais atuais. Os testes de massa foram executados no sistema SoapUI 5.5.0 sem quais problemas.<br/>
+<b>Atenção:</b> Altere as propriedades do arquivo application.properties dentro do código fonte para as dependências corretas de sua estação e ou servidor de dados e host.<br/><br/>
 3- Links para teste:<br/>
 a- http://localhost:8081/artista/listAllArtista -> apresentará todo JSON dos dados armazenados na base;<br/>
 b- http://localhost:8081/artista/listAllArtista?paginaNum=0&paginaLinhas=2 - apresentará o resultado em modo paginação;<br/>
