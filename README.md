@@ -26,6 +26,6 @@ Ex.:<br/>
 <pre>
 {
 "codArtista" : 1
-"descricao" : "Novo Nome do Artista/Banda"
+"descricao" : "Nome do Artista/Banda"
 }
 </pre>
